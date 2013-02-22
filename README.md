@@ -1,2 +1,1 @@
-resume
-======
+http://captainbrosset.github.com/resume/
